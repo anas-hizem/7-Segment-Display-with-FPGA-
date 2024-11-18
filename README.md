@@ -88,10 +88,6 @@ Voici une description des principaux fichiers de ce projet :
   - Vérifiez l'assignation de la broche pour le bouton poussoir dans le fichier `.qsf`.
   - Assurez-vous que le signal de réinitialisation (`rst`) est correctement connecté et que la logique de réinitialisation dans le code VHDL est correcte.
 
-## Auteurs
-
-- **Votre nom** - Développeur principal
-
 ## Licences
 
 Ce projet est sous licence [MIT License](LICENSE).
