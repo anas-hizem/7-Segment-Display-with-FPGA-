@@ -74,6 +74,13 @@ Voici une description des principaux fichiers de ce projet :
 - **`counter7seg.vhd`** : Code VHDL du projet implémentant le comportement du compteur et de l'affichage 7 segments.
 - **`counter7seg.vhd.bak`** : Sauvegarde du fichier `counter7seg.vhd` au cas où une modification aurait été effectuée.
 
+## RTL Viewer :
+![Capture d'écran 2024-12-14 124057](https://github.com/user-attachments/assets/e286bb9c-4c7c-43c0-a771-f97930587551)
+
+
+## Résultat : 
+![06514474-dec0-4cbf-9344-4856b7f08d06](https://github.com/user-attachments/assets/da298a7f-440d-4d80-8eb1-d42268eb3d4f)
+
 ## Dépannage
 
 - **Le compteur ne s'incrémente pas :**
